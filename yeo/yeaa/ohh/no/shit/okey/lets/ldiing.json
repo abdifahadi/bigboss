@@ -1,4 +1,4 @@
 {
-  "aob_pattern": "10 03 94 75 09 0E 00 00 80 3F 00 00 80 3F 00 00 00 00 00 00",
-  "replacement_pattern": "3F 3F 3F 3F 09 0E 00 00 A1 C1 00 00 80 3F 00 00 00 00 00 00 "
+  "aob_pattern": "01 00 00 00 02 2B 07 3D",
+  "replacement_pattern": "01 00 00 00 92 E4 78 3D"
 }
