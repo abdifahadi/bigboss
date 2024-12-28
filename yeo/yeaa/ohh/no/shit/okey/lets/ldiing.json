@@ -1,4 +1,4 @@
 {
-  "aob_pattern": "01 00 00 00 92 e4 6f 3d",
-  "replacement_pattern": "01 00 00 00 02 2b 07 3d"
+  "aob_pattern": "10 4C 2D E9 08 B0 8D E2 40 D0 4D E2 00 30",
+  "replacement_pattern": "00 00 A0 E3 1E FF 2F E1 40 D0 4D E2 00 30"
 }
