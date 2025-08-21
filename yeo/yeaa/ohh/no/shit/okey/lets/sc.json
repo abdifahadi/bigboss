@@ -1,4 +1,4 @@
 {
-  "aob_pattern": "C0 3F 0A D7 A3 3B 0A D7 A3 3B 8F C2 75 3D AE 47 E1 3D 9A 99 19 3E CD CC 4C 3E A4 70 3E FD",
-  "replacement_pattern": "80 4F 0A D7 A3 3B 0A D7 A3 3B 8F C2 75 3D AE 47 E1 3D 9A 99 19 3E CD CC 4C A4 3E 70 FD 3E"
+  "aob_pattern": "44 3D 2E 36",
+  "replacement_pattern": "4C 3D 2E 36"
 }
